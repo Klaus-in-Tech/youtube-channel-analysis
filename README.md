@@ -9,10 +9,11 @@ To run the project, you'll need to have Jupyter Notebook installed on your compu
 - Obtain the API key
 
 ## Sample output from the wordCloud library
+![Capture](https://github.com/Klaus-in-Tech/youtube-channel-analysis/assets/31986394/86da1d7d-c22f-4b6e-9c95-a07c78a4c9d6)
 
 
 ## Credits<br>
-This game was built by ME as a fun project to learn Python fundamentals.<br><br>
+This project was built by ME as a data analysis project to learn about `Pandas`, `NumPy` and `Matplotlib` Python libraries.<br><br>
 
 ## Acknowledgements<br>
 Tutorial used to build the data analysis project: [Youtube Video](https://www.youtube.com/watch?v=D56_Cx36oGY)<br><br>
