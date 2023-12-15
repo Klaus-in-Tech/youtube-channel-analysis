@@ -15,8 +15,6 @@ To run the project, you'll need to have Jupyter Notebook installed on your compu
 ## Credits<br>
 This project was built by ME as a data analysis project to learn about `Pandas`, `NumPy` and `Matplotlib` Python libraries.<br><br>
 
-## Acknowledgements<br>
-Tutorial used to build the data analysis project: [Youtube Video](https://www.youtube.com/watch?v=D56_Cx36oGY)<br><br>
 
 ## Author
 - [Github](https://github.com/Klaus-in-Tech)
